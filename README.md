@@ -1,4 +1,4 @@
-# 2023_delfin
+# 2023_Curso
 
 ## Semana del 17 - 21 de julio 2023:
 
